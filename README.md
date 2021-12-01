@@ -1,6 +1,6 @@
 # need_for_js
 
-# Учебный проект [Glo Academy](https://glo.academy/) на 4х-дневном интенсиве по JS ["Интенсив по JS "Гоночки"](https://glo-academy.ru/intensive/vorkshop-po-js-gonochki/). Проект доступен по [ссылке]
+# Учебный проект [Glo Academy](https://glo.academy/) на 4х-дневном интенсиве по JS ["Интенсив по JS "Гоночки"](https://glo-academy.ru/intensive/workshop-in-js-gonochki-by-GLO/). Проект доступен по [ссылке]
 
 ДЕНЬ 1. "Создание структуры проекта".
 Создаем структуру проекта, получаем элементы страницы.
